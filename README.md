@@ -126,8 +126,8 @@ Run the program and choose RTL viewer to get RTL realization.
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by:V.NAVYA 
-RegisterNumber: 2122221230069 
+Developed by: S.ABHISHEK
+RegisterNumber: 212221230002 
 */
 
 ```
@@ -213,15 +213,13 @@ D FLIP FLOP
 
 
 
-###RTL LOGIC FOR FLIPFLOPS 
+### RTL LOGIC FOR FLIPFLOPS 
 T FLIP FLOP:
 ![GITHUB LOGO](t1.png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 T FLIP FLOP
 ![GITHUB LOGO](tt.png)
- ```
-
-
+ 
 ### RESULTS 
 All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
